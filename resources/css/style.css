@@ -70,7 +70,8 @@ nav a {
 
 header .icon {
   width: 1rem;
-  padding-left: 7rem;
+  padding-left: .75rem;
+  padding-right: 1.875rem;
 }
 
 header .mobile {
